@@ -1,0 +1,20 @@
+{
+  "author": "Kirby Wu",
+  "name": "reservoir-history",
+  "description": "reservoir historical statistics crawler",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zbryikt/reservoir-history",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbryikt/reservoir-history"
+  },
+  "engines": {
+    "node": ">=0.8.18",
+    "npm": ">=1.2.2"
+  },
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
